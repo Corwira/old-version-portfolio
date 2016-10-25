@@ -1,2 +1,1 @@
-# corwira.github.io
-Personal Portfolio Page
+# old version of portfolio, no longer operated
