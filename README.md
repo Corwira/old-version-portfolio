@@ -1,1 +1,2 @@
-# old version of portfolio, no longer operated
+# old version of portfolio  
+no longer operated
